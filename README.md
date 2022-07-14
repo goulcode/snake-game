@@ -1,4 +1,4 @@
 # Snake Game
 Jogo da cobrinha em 
 
-![](readme/result.png)
+![](readme/snakegame.png)
