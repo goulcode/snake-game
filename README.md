@@ -1,2 +1,4 @@
 # Snake Game
-Jogo da cobrinha em JS
+Jogo da cobrinha em 
+
+![](readme/result.png)
